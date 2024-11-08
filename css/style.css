@@ -212,7 +212,7 @@ html {
 .main .main_top {
     position: relative;
     height: 969px;
-    background: url(/resources/image/main_bg.57d777d6.jpg) top no-repeat;
+    background: url(../image/main_bg.57d777d6.jpg) top no-repeat;
     background-size: cover;
     background-attachment: fixed
 }
@@ -224,7 +224,7 @@ html {
     width: 980px;
     height: 421px;
     margin: -210px 0 0 -490px;
-    background-image: url(/resources/image/main_squarebg.342fdc70.png);
+    background-image: url(../image/main_squarebg.342fdc70.png);
     background-repeat: no-repeat
 }
 
@@ -243,7 +243,7 @@ html {
 
 .main .main_mid {
     height: 500px;
-    background-image: url(/resources/image/sub1_bg.9b853017.gif);
+    background-image: url(../image/sub1_bg.9b853017.gif);
     background-repeat: no-repeat;
     background-attachment: fixed
 }
@@ -452,11 +452,11 @@ html {
 }
 
 .main .main_bot .vision li .toggleOn {
-    background-image: url(/resources/image/toggleOn.gif);
+    background-image: url(../image/toggleOn.gif);
 }
 
 .main .main_bot .vision li .toggleOff {
-background-image: url(/resources/image/toggleOff.gif);
+background-image: url(../image/toggleOff.gif);
 }
 
 .main .main_bot .vision li .sub_text {
@@ -487,7 +487,7 @@ background-image: url(/resources/image/toggleOff.gif);
 .work .work_top {
     position: relative;
     height: 318px;
-    background-image: url(/resources/image/sub1_visu.8d13f463.jpg);
+    background-image: url(../image/sub1_visu.8d13f463.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover
@@ -578,7 +578,7 @@ background-image: url(/resources/image/toggleOff.gif);
 .career .career_top {
     position: relative;
     height: 318px;
-    background-image: url(/resources/image/sub2_visu.61c1ab95.jpg);
+    background-image: url(../image/sub2_visu.61c1ab95.jpg);
     background-position: 50%;
     background-repeat: no-repeat
 }
@@ -740,7 +740,7 @@ background-image: url(/resources/image/toggleOff.gif);
 .contact .contact_top {
     position: relative;
     height: 318px;
-    background-image: url(/resources/image/sub3_visu.24940e76.jpg);
+    background-image: url(../image/sub3_visu.24940e76.jpg);
     background-position: 50%;
     background-repeat: no-repeat
 }
